@@ -1,6 +1,4 @@
-; multi-segment executable file template.
 ;ASCENDING
-;Aadit Hire C1-1 60004220188
 data segment
     string1 db 99h,12h,56h,45h,36h
 ends
